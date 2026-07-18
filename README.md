@@ -1,3 +1,21 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhOeNiX423&show_icons=true&theme=shadow_red&text_color=f8e8ea&icon_color=9d0413&border_color=b70417&locale=ru&hide_title=true&border_radius=25&ring_color=9d0413&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
+# Hi there, I'm Daria 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhOeNiX423&layout=compact&theme=shadow_red&text_color=f8e8ea&border_color=b70417&hide_title=true&border_radius=25&card_width=470)
+### QA Engineer
+
+Я QA Engineer с техническим образованием, который увлечён качеством программного обеспечения, процессами тестирования и постоянным развитием.
+
+---
+
+## 🛠 Технологии // Tech Stack
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 📫 Контакты // Contacts
+
+🐱 GitHub: https://github.com/PhOeNiX423
+
+✉️ Email: dariavolkova.qa@yandex.ru
